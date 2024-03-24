@@ -22,6 +22,7 @@ public class ProductModel extends RepresentationModel<ProductModel> implements S
   private UUID idProduct;
   private String name;
   private BigDecimal value;
+  private String address;
 
   public UUID getIdProduct(){
     return idProduct;
@@ -45,6 +46,14 @@ public class ProductModel extends RepresentationModel<ProductModel> implements S
   
   public void setValue(BigDecimal value){
     this.value = value;
+  }
+
+  public String getAddress(){
+    return address;
+  }
+  
+  public void setAddress(String address){
+    this.address = address;
   }
 
 }
