@@ -1,6 +1,6 @@
 # Desenvolvimento de aplicação Java Spring Boot RestFull
 
-## Primeiramente no VSCODE deve-se instalar o pluguin para supore do Spring boot
+## Primeiramente no VSCODE deve-se instalar o plugin para supore do Spring boot
 
 ## MYSQL comando docker para criar uma máquina servidora de Banco de dados
 ### Acesse para mais informações [Docker MySql](https://gasparbarancelli.com/post/passo-a-passo-para-subir-um-banco-de-dados-mysql-no-docker)
